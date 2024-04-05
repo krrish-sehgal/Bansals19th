@@ -17,7 +17,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(adminRoutes);
 
 app.use(errorController.get404);
-
-app.listen(3000,()=>{
-    console.log(`server is running on http://localhost:3000`);
+const PORT = process.env.PORT || 3000; // Use process.env.PORT for production environment
+app.listen(PORT, () => {
+    console.log(`Server is running on http://localhost:${PORT}`);
 });
