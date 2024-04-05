@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .puzzle {
+    width: 600px; /* Adjust as needed */
+    height: 600px; /* Adjust as needed */
+    /* background-image: url('bansal1.png'); */
+    background-size: cover;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    margin: 20px auto;
+    border: 2px solid #333;
+  }
+  
+  .puzzle-piece {
+    background-color: #fff;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  #piece1{
+    background-image: url('images/bansal1.png');
+    background-size: cover;
+  }
+  #piece2{
+    background-image: url('images/bansal2.png');
+    background-size: cover;
+  }
+  #piece3{
+    background-image: url('images/bansal3.png');
+    background-size: cover;
+  }
+  #piece4{
+    background-image: url('images/bansal4.png');
+    background-size: cover;
+  }
+  #piece5{
+    background-image: url('images/bansal5.png');
+    background-size: cover;
+  }
+  #piece6{
+    background-image: url('images/bansal6.png');
+    background-size: cover;
+  }
+  #piece7{
+    background-image: url('images/bansal7.png');
+    background-size: cover;
+  }
+  #piece8{
+    background-image: url('images/bansal8.png');
+    background-size: cover;
+  }
+  #emptyPiece{
+    background-color:white;
+  }
+  .controls {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
