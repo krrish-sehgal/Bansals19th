@@ -10,5 +10,6 @@ router.get('/',controllers.getIndex);
 router.get('/eight-bansal-puzzle',controllers.getEightBansalPuzzle);
 router.get('/bansal-rex',controllers.getBansalRex);
 router.get('/birthday-card',controllers.getBirthdayCard);
+router.get('/messages',controllers.getMessages);
 
 module.exports= router;

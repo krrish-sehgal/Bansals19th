@@ -25,3 +25,10 @@ exports.getIndex = (req, res, next) => {
         path: '/'
     });
 }
+
+exports.getMessages = (req, res, next) => {
+    res.render('messages', {
+        pageTitle: 'Messages',
+        path: '/messages'
+    });
+}
