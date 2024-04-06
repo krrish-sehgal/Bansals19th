@@ -1,7 +1,7 @@
 
   // Define arrays of messages for each friend
   var messages = {
-    krrish: ['Maza aarha website par fraud insaan?, meri hatho ki mail hai ye , sambhal ke rakhiyo', 'If you\'re hot , sorry that statement is wrong , theres no if','10 rupay ki pepsi, meri bansal secccccyy','istg ,you\'re unbilieavably awesomeee','bansal , teri jaisi ladki flirt karne ke liye nhi bani , but mai konsa bunny hu ','tujhe dekha toh ye jana sanam ','you matter , aight , see the code if you dont believe its fuckin big','you know what you are ? cute, thats right','sur se lekar paer tujhe happy wala birthday meri jaan',`bet you thought, this was the only gift you were getting:<a href ="https://open.spotify.com/playlist/2A3hulMd1oJNOvLk3oeE55?si=X9A2Nk4dTtSXUjcX0LRZJg&pi=a-IZ-S_5SkTJeg">Happy Birthday</a>`,],
+    krrish: ['Maza aarha website par fraud insaan?, meri hatho ki mail hai ye , sambhal ke rakhiyo', 'If you\'re hot , sorry that statement is wrong , theres no if','10 rupay ki pepsi, meri bansal secccccyy','istg ,you\'re unbilieavably awesomeee','bansal , teri jaisi ladki flirt karne ke liye nhi bani , but mai konsa bunny hu ','tujhe dekha toh ye jana sanam ','you matter , aight , see the code if you dont believe its fuckin big','you know what you are ? cute, thats right','sur se lekar paer tujhe happy wala birthday meri jaan',`bet you thought, this was the only gift you were getting:https://open.spotify.com/playlist/2A3hulMd1oJNOvLk3oeE55?si=X9A2Nk4dTtSXUjcX0LRZJg&pi=a-IZ-S_5SkTJeg"`,],
     
     vij: ['Happy birthday dukhi aatma','chamakti raahiyo humesha'],
     
