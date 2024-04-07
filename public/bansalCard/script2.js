@@ -7,7 +7,7 @@
     
     shreya:['Happy birthday magnificent human! Wishing you endless laughter and joy', 'No distance can ever break the bond we share as friends. :)', 'I hope to see u this year bishhhh( Teri sau 😁)', 'Remember the time we broke the tennis table during our play rehersals,Bansal, and I mean it, will you break more tables with me?💀', 'May your day be as bright and joyful as your future, and as wild and crazyas your,last Google search history!', 'This is the last year of your teenage....have a crazyy yearr','love you <3'],
     
-    tanmay:['Happy birthday bansu','live long and prosper'],
+    tanmay:['Happy birthday bansu','live long and prosper','tu hamare grp mei glue ka kaam krti hai everyone has a different relation with her and she is the one jisne aaj tk sabko jodh rakha hai','Bansal is beautiful','Bhookadh','Khana cheene waali','Choti baato pe naraz hone waali','Can get her with a cheesecake'],
     
     neer:['love you','Happy Birthday','you deserve all the happiness in the world' ],
     
