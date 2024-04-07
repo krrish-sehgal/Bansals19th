@@ -1,6 +1,6 @@
 var clickCount = 0;
 var maxClicks = 15;
-var images = ["bansalCard/images/front-card.png", "bansalCard/images/back-card.png"];
+var images = ["bansalCard/images/front-card.png", "bansalCard/images/mid-card.png","bansalCard/images/back-card.png",];
 
 document.getElementById('clickableImage').addEventListener('click', function() {
   clickCount++;
@@ -14,7 +14,8 @@ document.getElementById('clickableImage').addEventListener('click', function() {
     this.classList.toggle('normalSize');
     
     // Alternate between front-card and back-card images
-    var currentIndex = clickCount % 2;
+
+    var currentIndex = clickCount % 3;
     this.src = images[currentIndex];
   }
 });
